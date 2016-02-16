@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./francisciburmann02burm/francisciburmann02burm_0090.png"; bbox 0 0 2357 3192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 836 0 3192">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 836 0 3192">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 836 0 3192"><span class='ocrx_word' id='word_1_1' title='bbox 0 836 0 3192; x_wconf 95' lang='lat' dir='ltr'>     </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2267 367 2292 2334">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2267 367 2292 2334">
+     <span class='ocr_line' id='line_1_2' title="bbox 2267 367 2292 2334; baseline 1967 -15736"><span class='ocrx_word' id='word_1_2' title='bbox 2274 367 2275 370; x_wconf 70' lang='grc'>,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2275 423 2280 446; x_wconf 38' lang='lat'>⁴.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2267 821 2286 828; x_wconf 43' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_5' title='bbox 2275 1056 2286 1063; x_wconf 58' lang='grc'>,.</span> <span class='ocrx_word' id='word_1_6' title='bbox 2283 1100 2290 1109; x_wconf 68' lang='lat' dir='ltr'><em>r</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2273 1143 2291 1239; x_wconf 51' lang='grc' dir='ltr'>«Ἄ».</span> <span class='ocrx_word' id='word_1_8' title='bbox 2281 1367 2291 1392; x_wconf 45' lang='grc' dir='ltr'>’μ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2277 1431 2289 1475; x_wconf 68' lang='grc' dir='ltr'>,ἷι</span> <span class='ocrx_word' id='word_1_10' title='bbox 2276 1542 2290 1572; x_wconf 65' lang='grc' dir='ltr'>,ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 2275 1607 2292 1699; x_wconf 42' lang='grc' dir='ltr'>.η.,.,</span> <span class='ocrx_word' id='word_1_12' title='bbox 2283 1730 2289 1738; x_wconf 60' lang='grc'>.,</span> <span class='ocrx_word' id='word_1_13' title='bbox 2273 1771 2284 1814; x_wconf 70' lang='lat' dir='ltr'>al·</span> <span class='ocrx_word' id='word_1_14' title='bbox 2271 1854 2289 1926; x_wconf 46' lang='lat'>»120⁹</span> <span class='ocrx_word' id='word_1_15' title='bbox 2271 1974 2292 2334; x_wconf 51' lang='grc' dir='ltr'>ῆιῖηἶιπΐῆὴιιίυιςικυι.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

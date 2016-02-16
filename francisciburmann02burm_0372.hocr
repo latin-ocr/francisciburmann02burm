@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./francisciburmann02burm/francisciburmann02burm_0372.png"; bbox 0 0 2394 3197; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2289 2240 2321 2738">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2289 2240 2321 2738">
+     <span class='ocr_line' id='line_1_1' title="bbox 2289 2240 2321 2738; baseline -249 1245"><span class='ocrx_word' id='word_1_1' title='bbox 2301 2240 2303 2247; x_wconf 53' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2304 2280 2321 2318; x_wconf 72' lang='grc' dir='ltr'>.,Ῐ</span> <span class='ocrx_word' id='word_1_3' title='bbox 2301 2358 2318 2378; x_wconf 57' lang='lat' dir='ltr'>w,</span> <span class='ocrx_word' id='word_1_4' title='bbox 2289 2398 2317 2738; x_wconf 56' lang='lat' dir='ltr'>mn..v,1.1w..·f.Uun.m-n«wlf...4</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2284 2392 2297 2594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2284 2392 2297 2594">
+     <span class='ocr_line' id='line_1_2' title="bbox 2284 2392 2297 2594; baseline 101 -606"><span class='ocrx_word' id='word_1_5' title='bbox 2288 2392 2290 2401; x_wconf 66' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 2290 2430 2293 2435; x_wconf 89' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2289 2455 2293 2466; x_wconf 87' lang='grc'><strong><em>1</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2284 2551 2297 2594; x_wconf 59' lang='grc' dir='ltr'>Τι’,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2394 3197">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2394 3197">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2394 3197"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2394 3197; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
